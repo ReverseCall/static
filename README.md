@@ -1,6 +1,6 @@
 # LeagueBlender
 
-  🇧🇷 [Portugues](README_pt.md) | 🇺🇸 [English](README.md)
+  🇧🇷 [Portugues](./README_pt.md) | 🇺🇸 [English](README.md)
 
 Import/export toolkit for League of Legends files in Blender.
 
