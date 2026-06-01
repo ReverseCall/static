@@ -84,7 +84,7 @@ Esta opção realiza a importação conjunta da malha (`.SKN`) e do *armature* (
 *   Edição completa do modelo.
 
 
-> [!NOTE]   
+> [!TIP]   
 > Você pode optar por importar apenas o `.SKL` ao marcar `Import SKL Only` antes de efetivamente importar o seu (.skl + .skn)
 
 ## Como Exportar Arquivos

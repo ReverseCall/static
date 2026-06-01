@@ -79,7 +79,7 @@ This option imports both the mesh (`.SKN`) and the armature (`.SKL`) together. T
 * Exporting.
 * Full model editing.
 
-> [!NOTE]
+> [!TIP]
 > You can choose to import only the `.SKL` by checking `Import SKL Only` before importing your `.skl + .skn` files.
 
 ## How to Export Files
