@@ -1,5 +1,8 @@
 # LeagueBlender
 
+[![English](https://img.shields.io/badge/Language-English-blue)](README.md)
+[![Português](https://img.shields.io/badge/Idioma-Português-green)](README_pt.md)
+
  🇺🇸 [English](README.md) | 🇧🇷 [Portugues](README_pt.md)
 
 Import/export toolkit for League of Legends files in Blender.
